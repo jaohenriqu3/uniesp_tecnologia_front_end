@@ -1,1 +1,1 @@
-# tecnologia_front_end
+Projetos e exercicios de estudo da disciplina tecnologia para front-end, disciplina sendo cursada atualmente no primeiro periodo da graduação de Sistemas Para Internet na instituição UNIESP - Centro Universitário  
